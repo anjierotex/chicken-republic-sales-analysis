@@ -12,6 +12,20 @@ The analysis examines overall sales performance, outlet profitability, product p
 
 ---
 
+## ⭐ Project Highlights
+
+- 💰 **₦3.95M** in total observed sales
+- 📈 **₦685.70K** in total profit
+- 🎯 **17.4%** overall profit margin
+- 🛒 **2,703** units sold
+- 🍦 **Ice Cream** recorded the highest observed unit demand and product revenue
+- 🏪 **Victoria Island** generated the highest outlet revenue and total profit
+- 📊 **Ajah** recorded the highest outlet profit margin at **17.8%**
+- 🔮 Developed a **30-day sales forecast** to support short-term planning
+- 📑 Built an interactive **4-page Power BI dashboard** covering executive performance, outlet profitability, product performance and sales forecasting
+
+---
+  
 ## 🎯 Business Objectives
 
 The analysis was designed to answer key business questions including:
